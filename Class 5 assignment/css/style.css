@@ -1,0 +1,250 @@
+
+/*header start*/
+
+.heading{
+	text-align: center;
+}
+
+.logo{
+	float: left;
+	margin-left: 20px;
+	
+
+}
+
+.menu{
+	text-decoration: none;
+	float: right;
+}
+
+li{
+	text-decoration: none;
+}
+
+.container{
+	text-decoration: none;
+	overflow: hidden;
+}
+
+a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+	margin: 20px;
+	
+	
+	display: inline-block;
+}
+
+.container{
+
+}
+
+
+/*header end*/
+
+
+/*slider start*/
+
+.slide-wrapper{
+	overflow: hidden;
+
+}
+
+
+.article{
+	width: 60%;
+	min-height: 50px;
+	background-color: darkcyan;
+	float: left;
+	margin-left: 20px;
+	padding: 20px;
+	color: wheat;
+}
+
+.img0{
+	width: 30%;
+	min-height: 50px;
+	float: right;
+	margin-right: 20px;
+}
+
+
+/*slider end*/
+
+
+/*services start*/
+
+
+.services-wrapper{
+	overflow: hidden;
+	
+	text-align: center;
+}
+
+.service{
+	min-height: 150px;
+	width: 30%;
+	float: left;
+	margin: 20px;
+	text-align: center;
+
+
+}
+
+.green{
+	background-color: green;
+
+}
+
+.blue{
+	background-color: blue;
+}
+
+.red{
+	background-color: red;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.black{
+	background-color: black;
+}
+
+.purple{
+	background-color: purple;
+	text-align: center;
+
+}
+
+
+/*services end*/
+
+
+
+/*Form Start*/
+
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 2px dotted green;
+	padding: 20px;
+	margin-top: 50px;
+	
+}
+
+label{
+	font-size: 25px;
+}
+
+.first_name{
+	width: 80%;
+	height: 30px;
+	padding: 10px;
+	font-size: 20px;
+	margin-left: 80px;
+
+}
+
+
+.last_name{
+	width: 80%;
+	height: 30px;
+	padding: 10px;
+	font-size: 20px;
+	margin-left: 80px;
+}
+
+.email{
+	width: 80%;
+	height: 30px;
+	padding: 10px;
+	font-size: 20px;
+	margin-left: 80px;
+}
+
+.password{
+	width: 80%;
+	height: 30px;
+	padding: 10px;
+	font-size: 20px;
+	margin-left: 80px;
+}
+
+.gender{
+	
+	font-size: 20px;
+	margin-left: 80px;
+}
+
+.division{
+	font-size: 20px;
+	margin-left: 80px;
+}
+
+.courses{
+	font-size: 20px;
+	margin-left: 80px;
+}
+
+.message-box{
+	font-size: 20px;
+	margin-left: 80px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.submit-button{
+	font-size: 20px;
+	margin-left: 80px;
+}
+
+.reset-button{
+	font-size: 20px;
+	margin-left: 80px;
+}
+
+/*Form End*/
+
+
+
+
+/*Table Start*/
+
+.table-heading{
+	text-align: center;
+}
+
+.table-wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 2px dashed red;
+	border-collapse: collapse;
+	padding: 20px;
+
+	
+}
+
+
+
+table{
+	width: 100%;
+	border: 2px solid black;
+	text-align: center;
+	border-collapse: collapse;
+
+}
+
+th, td{
+	border: 2px solid black;
+	height: 30px;
+	border-collapse: collapse;
+}
+
+
+
+
+/*Table End*/
+
